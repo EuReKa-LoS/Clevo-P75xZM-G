@@ -5,21 +5,6 @@
 ## Overview
 
 Hello!
-First of all, this is my first attempt at modifying a BIOS on my own.
-
-I've owned a Clevo P750ZM-G since late 2015 and experienced several thermal issues due to excessive voltage and limitations in the stock BIOS.
-I delidded the CPU and applied liquid metal to my golden-sample Intel Core i7-4790K, but temperatures still reached 82°C under stress testing.
-With this modified BIOS, I was able to undervolt the CPU and reduce temperatures to 71°C under the same stress-testing conditions.
-
-My laptop has also been upgraded with an NVIDIA GeForce GTX 1070.
-
-# Clevo-P75xZM-G
-
-Unlocked and Modified BIOS for the Clevo P750ZM-G
-
-## Overview
-
-Hello!
 
 First of all, this is my first attempt at modifying a BIOS on my own.
 
